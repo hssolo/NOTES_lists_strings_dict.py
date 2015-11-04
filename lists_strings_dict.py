@@ -8,7 +8,7 @@ print x
 
 ## Use in to lookup or reference any key in a dictionary.
 'c' in x
-#Outputs True or False should I have called for d or anything else outside the x dictionary above.
+#Outputs True. Should I have called for d or anything else outside the x dictionary above it would have outputed False.
 #Note: This does not work on a value
 
 ## To access just one element in the dictionary, you have to call that dictionary with the name of the key that you want to look up
